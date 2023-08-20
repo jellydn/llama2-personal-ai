@@ -3,6 +3,8 @@
   Build your personal AI with the llama2 model 🤖. Easy to use, and perfect for your development needs!
 </p>
 
+[![IT Man - Build Your Personal AI with Llama2 [Vietnamese]](https://i.ytimg.com/vi/2wCgPa4G9H0/hqdefault.jpg)](https://www.youtube.com/watch?v=2wCgPa4G9H0)
+
 ## 🛠 Requirements
 
 Make sure to have [ollama](https://github.com/jmorganca/ollama) installed on your machine.

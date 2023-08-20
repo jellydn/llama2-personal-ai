@@ -1,4 +1,4 @@
-# Modelfile for creating a devops engineer assistant
+# Modelfile for creating a web developer assistant
 # Run `ollama create web-developer -f ./Modelfile` and then `ollama run web-developer` and enter a topic
 
 FROM llama2:13b
