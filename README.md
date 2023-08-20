@@ -48,6 +48,7 @@ Make sure to have [ollama](https://github.com/jmorganca/ollama) installed on you
 ## Resources
 
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
+- [jmorganca/ollama: Get up and running with Llama 2 and other large language models locally](https://github.com/jmorganca/ollama)
 - [getumbrel/llama-gpt: A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.](https://github.com/getumbrel/llama-gpt)
 - [NextJs Mini Course](https://www.youtube.com/playlist?list=PLOdXIcVPTyB_2IiS36upNkEw2fLhyb5D6)
 - [Architectural Decision Records - why you should write ADR](https://youtu.be/EhsBVGDWTxs)
